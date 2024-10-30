@@ -1,0 +1,9 @@
+[submodule "comp-camp"]
+	path = comp-camp
+	url = https://github.com/mon231/comp-camp.git
+[submodule "whoami"]
+	path = whoami
+	url = https://github.com/mon231/mon231.git
+[submodule "apkmod"]
+	path = apkmod
+	url = https://github.com/mon231/apkpatcher
