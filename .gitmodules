@@ -7,3 +7,15 @@
 [submodule "apkmod"]
 	path = apkmod
 	url = https://github.com/mon231/apkpatcher
+[submodule "buildapp"]
+	path = buildapp
+	url = https://github.com/mon231/buildapp.git
+[submodule "magicek"]
+	path = magicek
+	url = https://github.com/mon231/magicek.git
+[submodule "com.rel.mujde"]
+	path = com.rel.mujde
+	url = https://github.com/mon231/com.rel.mujde
+[submodule "common-frida-scripts"]
+	path = common-frida-scripts
+	url = https://github.com/mon231/common-frida-scripts.git
