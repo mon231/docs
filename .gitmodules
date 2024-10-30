@@ -25,3 +25,6 @@
 [submodule "chess"]
 	path = chess
 	url = https://github.com/mon231/chess.git
+[submodule "color-tweak"]
+	path = color-tweak
+	url = https://github.com/mon231/color-tweak.git
